@@ -1,0 +1,29 @@
+{
+  "carrosEstacionados": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "placa": "ABZ-3792",
+      "cor": "Vermelho",
+      "marca": "Ferrari",
+      "modelo": "F8",
+      "dataHoraEntrada": "10/03/2021 16:30",
+      "dataHoraSaida": "",
+      "status": "true"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
