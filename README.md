@@ -22,8 +22,9 @@ Qualquer questão só chamar, vamos aprender juntos❣❣
 
 ## Alguns prints do projeto
 
-[Entrada de Veículos](https://ibb.co/XDF33QX)
-
+* [Pátio de Veículos](https://ibb.co/XDF33QX)
+* [JSON Server](https://ibb.co/Sf5LTWH)
+* [Entrada de Veículos](https://ibb.co/Qph3b15)
 
 ## Scripts
 
