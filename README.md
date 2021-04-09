@@ -20,6 +20,10 @@ Projeto e Curso de MERN Stack desenvolvidos pela [Faculdade IV2](https://class.f
 [**Fernando V. Weiss**](https://www.linkedin.com/in/fernando-vinicius-weiss-da-rosa-53a575188/)
 Qualquer questão só chamar, vamos aprender juntos❣❣
 
+## Alguns prints do projeto
+
+[Entrada de Veículos](https://ibb.co/XDF33QX)
+
 
 ## Scripts
 
